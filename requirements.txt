@@ -2,3 +2,4 @@ Flask
 Flask-MySQLdb
 Werkzeug
 mercadopago
+gunicorn==22.0.0
